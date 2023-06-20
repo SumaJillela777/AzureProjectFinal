@@ -11,7 +11,7 @@ using TicketBookingApplication.Models;
 namespace TicketBookingApplication.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230620024303_initialcreate")]
+    [Migration("20230620044147_initialcreate")]
     partial class initialcreate
     {
         /// <inheritdoc />
